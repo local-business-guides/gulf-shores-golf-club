@@ -28,6 +28,9 @@
 - [Golf courses Gulf Shores: choosing your next round](https://local-business-guides.github.io/gulf-shores-golf-club/golf-courses-gulf-shores/): Compare golf courses Gulf Shores golfers can enjoy, find a round that fits your plans, and call Gulf Shores Golf Club in Gulf Shores today.
 - [Golf club Gulf Shores: what to know before visiting](https://local-business-guides.github.io/gulf-shores-golf-club/golf-club-gulf-shores/): Plan a comfortable golf club Gulf Shores visit with course, shop, instruction and dining in one setting. Call Gulf Shores Golf Club to learn more today.
 
+## Newsroom
+- [Gulf Shores Golf Club Publishes Guide to Local Golf Courses](https://local-business-guides.github.io/gulf-shores-golf-club/news/2026-11-06-gulf-shores-golf-club-publishes-guide-to-local/): Gulf Shores Golf Club has published a guide to golf courses in Gulf Shores, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-06)
+
 ## Pages
 - [Golf Courses in Gulf Shores, Alabama](https://local-business-guides.github.io/gulf-shores-golf-club/): Enjoy a Gulf Coast golf setting and a course that offers a rewarding day out in Gulf Shores. Call +1251-968-7366.
 - [About Gulf Shores Golf Club](https://local-business-guides.github.io/gulf-shores-golf-club/about/): About Gulf Shores Golf Club, Gulf Shores.
@@ -35,4 +38,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/gulf-shores-golf-club/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/gulf-shores-golf-club/news/rss.xml)
 - [Main resource site](https://gulf-shores-golf-club-coastal.localbusinesses1.chatgpt.site)

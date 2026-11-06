@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/gulf-shores-golf-club/sitemap.xml
+Sitemap: https://local-business-guides.github.io/gulf-shores-golf-club/news-sitemap.xml
